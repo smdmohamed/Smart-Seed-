@@ -37,3 +37,12 @@ VGG16.py: is the implementation of VGG16 architecture on our dataset.
 
 Restnet50.py: is the implementation of Restnet50 architecture on our dataset.
 
+
+Useful Material:
+
+S. G. Wu, F. S. Bao, E. Y. Xu, Y. Wang, Y. Chang and Q. Xiang, "A Leaf Recognition Algorithm for Plant Classification Using Probabilistic Neural Network," 2007 IEEE International Symposium on Signal Processing and Information Technology, 2007, pp. 11-16, doi: 10.1109/ISSPIT.2007.4458016.
+
+Kumar N. et al. (2012) Leafsnap: A Computer Vision System for Automatic Plant Species Identification. In: Fitzgibbon A., Lazebnik S., Perona P., Sato Y., Schmid C. (eds) Computer Vision – ECCV 2012. ECCV 2012. Lecture Notes in Computer Science, vol 7573. Springer, Berlin, Heidelberg. https://doi.org/10.1007/978-3-642-33709-3_36
+
+Github reposotory of Leafsnap: https://github.com/sujithv28/Deep-Leafsnap.git
+
