@@ -3,7 +3,7 @@ Smart Seed was a project proposed in first edition of the Algeria AI challenge (
 
 Abdel-Malek Atchi: Electrical Engineering Dpt.
 
-Mohamed Sammad: Mechanical Engineering Dpt.
+Mohamed Semmad: Mechanical Engineering Dpt.
 
 Mosaab Derba: Control Engineering Dpt.
 
